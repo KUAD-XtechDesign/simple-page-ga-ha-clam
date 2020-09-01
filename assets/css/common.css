@@ -13,12 +13,12 @@ html {
 }
 
 img{
-  max-width: 100%;
+  max-width: 60%;
   height:auto;
 }
 
 a{
-  color:#333;
+  columns: #333333;;
 }
 
 li{

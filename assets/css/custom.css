@@ -9,7 +9,7 @@
 
 h1{
     font-size: 18px;
-    border-left: #e2970c solid 5px;
+    border-left: #0aa0f7 solid 5px;
     padding-left: 5px;
     margin-bottom:20px;
 }
@@ -87,12 +87,12 @@ header {
 
 #main_nav li a:hover,
 #main_nav li span{
-    color:#e2970c;
+    color:#0aaaf5;
     
 }
 
 #main_nav li span{
-    border-bottom: 3px solid #e2970c;
+    border-bottom: 3px solid #0aaaf5;
 }
 
 
@@ -131,7 +131,7 @@ main{
 
 .main_pic{
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .sub_pic{
@@ -162,7 +162,7 @@ main{
 
 .youtube{
     position:relative;
-    width:100%;
+    width:45%;
     padding-top:56.25%;
     margin-bottom: 20px;
 }
